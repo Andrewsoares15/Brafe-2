@@ -5,4 +5,4 @@
 
 ## Tecnologias usadas
  - HTML5
- - BOOSTRAP
+ - BOOSTRAP 5
